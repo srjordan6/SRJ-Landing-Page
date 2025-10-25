@@ -76,7 +76,7 @@
   <section id="services" class="py-16 sm:py-20 bg-white">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold">Services</h2>
-      <div class="mt-6 grid gap-6 sm:grid-cols-2 max-w-sm mx-auto">
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         <div class="rounded-2xl border bg-white p-6 shadow-soft"><h3 class="font-semibold">Monthly Bookkeeping</h3><p class="mt-2 text-sm">Coding, reconciliations, AR/AP, P&L & balance sheet.</p></div>
         <div class="rounded-2xl border bg-white p-6 shadow-soft"><h3 class="font-semibold">Payroll Processing</h3><p class="mt-2 text-sm">Setup, processing, taxes, filings, year‑end forms.</p></div>
         <div class="rounded-2xl border bg-white p-6 shadow-soft"><h3 class="font-semibold">QuickBooks Online</h3><p class="mt-2 text-sm">Setup, cleanup, optimization, ongoing support.</p></div>
@@ -90,7 +90,7 @@
         <h2 class="text-3xl font-bold">Industries We Serve</h2>
         <p class="mt-3">Click an industry below to see exactly how we help.</p>
       </div>
-      <ul class="mt-8 grid gap-3 sm:grid-cols-2 max-w-sm mx-auto">
+      <ul class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         <li><a href="#chiropractors" class="block rounded-xl border border-slate-200 bg-white p-3 text-sm hover:border-[color:var(--brand)] hover:text-[color:var(--brand)]">Chiropractors</a></li>
 <li><a href="#churches" class="block rounded-xl border border-slate-200 bg-white p-3 text-sm hover:border-[color:var(--brand)] hover:text-[color:var(--brand)]">Churches</a></li>
 <li><a href="#construction" class="block rounded-xl border border-slate-200 bg-white p-3 text-sm hover:border-[color:var(--brand)] hover:text-[color:var(--brand)]">Construction</a></li>
@@ -233,8 +233,10 @@
   <section id="pricing" class="py-16 sm:py-20 bg-[color:var(--brand)]/5">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold">Transparent pricing</h2>
-      <div class="mt-10 grid gap-6 max-w-sm mx-auto">
+      <div class="mt-10 grid gap-6 lg:grid-cols-3">
         <div class="rounded-2xl border bg-white p-6 shadow-soft flex flex-col"><h3 class="text-xl font-semibold">Starter</h3><p class="mt-2 text-3xl font-extrabold" style="color:#031838">$300/mo</p></div>
+        <div class="rounded-2xl border bg-white p-6 shadow-soft flex flex-col"><h3 class="text-xl font-semibold">Growth</h3><p class="mt-2 text-3xl font-extrabold" style="color:#031838">$750/mo</p></div>
+        <div class="rounded-2xl border bg-white p-6 shadow-soft flex flex-col"><h3 class="text-xl font-semibold">Established</h3><p class="mt-2 text-3xl font-extrabold" style="color:#031838">$1,500+/mo</p></div>
       </div>
     </div>
   </section>

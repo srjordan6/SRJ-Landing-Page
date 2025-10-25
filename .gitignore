@@ -3,3 +3,9 @@ Thumbs.db
 node_modules/
 dist/
 .cache/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
